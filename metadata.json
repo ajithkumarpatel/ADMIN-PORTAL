@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Firebase Admin Panel",
+  "description": "A stand-alone admin panel to view and manage contact form messages stored in Firebase Firestore, with Firebase Authentication for access control.",
+  "requestFramePermissions": []
+}
